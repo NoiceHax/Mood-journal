@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scale-102 {
+  transform: scale(1.02);
+}
